@@ -18,6 +18,8 @@ public class MainClass {
 		int noOftyres=2;
 		System.out.println(noOftyres);
 		
+		System.out.println("************");
+		
 		
 
 	}

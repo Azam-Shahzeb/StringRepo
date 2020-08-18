@@ -10,7 +10,7 @@ public class MainDrawable {
 		 obj.run();
 		 System.out.println(Drawable.cube(3));
 		 
-		 System.out.println("abhfjf,ehrlkf");
+		
 
 	}
 
