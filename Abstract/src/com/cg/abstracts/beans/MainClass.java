@@ -18,7 +18,11 @@ public class MainClass {
 		int noOftyres=2;
 		System.out.println(noOftyres);
 		
+<<<<<<< HEAD
 		System.out.println("************");
+=======
+		System.out.println("*************************");
+>>>>>>> branch 'master' of https://github.com/Azam-Shahzeb/StringRepo.git
 		
 		
 
