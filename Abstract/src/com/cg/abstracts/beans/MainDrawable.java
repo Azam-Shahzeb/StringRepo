@@ -9,6 +9,8 @@ public class MainDrawable {
 		// sqr.draw();
 		 obj.run();
 		 System.out.println(Drawable.cube(3));
+		 
+		 System.out.println("abhfjf,ehrlkf");
 
 	}
 
